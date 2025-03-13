@@ -1,0 +1,15 @@
+.idea
+.vscode
+pon_design_lite/deps
+pon_design_lite/docs
+__pycache__
+venv/
+env/
+# Documentation builds
+docs/_build/
+
+# Coverage
+.coverage
+htmlcov/
+
+.history
